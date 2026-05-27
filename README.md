@@ -1,18 +1,81 @@
-## Getting Started
+# Mythveil Arena - Text RPG Battle Simulator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+🌿 Welcome to the  Mythveil Arena...
+A whimsical fantasy Text RPG Battle Simulator built in Java featuring magical combat, enemies, character classes, and immersive terminal.
 
-## Folder Structure
+## ✨ Features
 
-The workspace contains two folders by default, where:
+- Turn-based battle system
+- Fantasy-inspired enemies
+- Character classes and stats
+- Skills and magical abilities
+- Health and mana system
+- Critical attacks
+- Inventory/items
+- Terminal-based gameplay
+- Object-Oriented Programming concepts
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠 Technologies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Object-Oriented Programming (OOP)
+- Collections
+- Interfaces and Contracts
+- Inheritance & Polymorphism
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📚 Concepts Practiced
 
-## Dependency Management
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- Interfaces
+- Collections (ArrayList, Map)
+- Battle logic
+- Game state management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🎮 Gameplay Example
+
+========================
+🌲 Mystic Forest Battle
+========================
+
+Hero: Luna the Mage
+HP: 85
+Mana: 40
+
+Enemy: Forest Goblin
+HP: 60
+
+1 - Attack
+2 - Fire Spell
+3 - Heal
+4 - Inventory
+
+## 📂 Project Structure
+
+src/
+├── characters/
+├── enemies/
+├── skills/
+├── items/
+├── battle/
+├── utils/
+└── main/
+
+## 🚀 How to Run
+
+1. Clone the repository
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+
+2. Open the project in IntelliJ or VS Code
+
+3. Run the Main class
+
+
+## 👩‍💻 Author
+
+Brenda Jaiany de Oliveira
+
+Computer Science student passionate about fantasy games, creative coding, and software development.
